@@ -1,0 +1,30 @@
+.MuiDialog-paperWidthSm {
+    max-width: null !important;
+    width: 80% !important;
+    background: linear-gradient(70deg, rgb(253 126 20 / 80%), rgba(0, 255, 255, 0.589));
+    /* background: linear-gradient(
+      rgb(136, 255, 229) 60%,
+      rgba(243, 243, 56, 0.664)
+    ); */
+  
+    border-radius: 30px !important;
+    text-align: center;
+  }
+  h2 {
+    color: rgb(131, 17, 46) !important;
+    margin-top: 15px;
+  }
+  .MuiDialogContentText-root {
+    font-size: 20px !important;
+  }
+  .MuiTypography-h6 {
+    font-size: 25px !important;
+    color: rgb(4, 134, 4) !important;
+    font-weight: 500;
+  }
+  .MuiDialogActions-root {
+    display: unset !important;
+  }
+  .MuiButton-label:hover {
+    color: rgb(18, 168, 43) !important;
+  }

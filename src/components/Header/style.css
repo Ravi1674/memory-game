@@ -1,0 +1,39 @@
+h1 {
+    padding: 20px;
+    color: rgb(0, 0, 0);
+  
+    background: linear-gradient(to bottom right, rgb(253 126 20 / 80%), rgba(0, 255, 255, 0.589));
+    text-align: center;
+    font-family: "Russo One", sans-serif;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    text-decoration: underline;
+    text-transform: capitalize;
+  }
+  
+  .sub-header {
+    padding: 5px;
+    color: rgb(249, 249, 250);
+    font-size: 20px;
+    font-weight: 800;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  button {
+    color: rgb(245, 240, 242);
+    border-radius: 8px;
+    background: linear-gradient(to bottom right, rgb(253 126 20 / 80%), rgba(0, 255, 255, 0.589));
+    margin-bottom: 8px;
+    font-weight: 800;
+    border: 2px solid white;
+  }
+  button:hover {
+    color: rgb(239, 237, 245);
+    background-color: rgb(77, 40, 179);
+    font-weight: 800;
+  }
+  .bold {
+    text-transform: capitalize;
+  }
