@@ -121,7 +121,7 @@ const App = () => {
         <Row>
           {cards.map((card, index) => {
             return (
-              <Col xs={3} md={3} lg={3}>
+              <Col xs={6} md={4} lg={3}>
                 <Card
                   key={index}
                   card={card}
